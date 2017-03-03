@@ -14,8 +14,8 @@ Following files are modified:
 
 ==== Files Changed ====
 
-1) src/main/org/h2/command/Parser.java 
-2) src/main/org/h2/command/Column.java 
+1) src/main/org/h2/command/Parser.java
+2) src/main/org/h2/command/Column.java
 3) src/main/org/h2/expression/Datatype.java
 4) src/main/org/h2/value/Value.java
 5) src/main/org/h2/server/web/WebApp.java
